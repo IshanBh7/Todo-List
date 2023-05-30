@@ -7,6 +7,8 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.27.2",
     "font-awesome": "^4.7.0",
+    "mongodb": "^2.2.12",
+    "nodemon": "^2.0.22",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.2",
